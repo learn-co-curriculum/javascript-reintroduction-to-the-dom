@@ -5,7 +5,6 @@
 1. Explain how DOM nodes are written
 2. Describe how to structure the DOM
 3. Explain the difference between inline and block elements
-4. Explain how to use inline styles
 
 ## DOM syntax
 ![Syntax](https://media.giphy.com/media/3o6MbkZSYy4mI3gLYc/giphy.gif)
