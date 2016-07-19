@@ -107,7 +107,7 @@ Wait a minute. What's that weird `href` thing doing there? Well, that's an attri
 or customize an element to change their behavior. In this case, we're telling the `<a>` tag, which is a clickable link,
 to take the user's browser to the specified URL in the `href` attribute.
 
-Lastly, we'll add a table below the paragraph to recap our some of the stuff in this lesson:
+Lastly, we'll add a table below the paragraph to recap some of the stuff in this lesson:
 
 ```html
 <table>
