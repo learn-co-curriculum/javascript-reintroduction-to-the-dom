@@ -8,7 +8,7 @@
 4. Explain how to use inline styles
 
 ## DOM syntax
-![Syntax](hhttps://media.giphy.com/media/3o6MbkZSYy4mI3gLYc/giphy.gif)
+![Syntax](https://media.giphy.com/media/3o6MbkZSYy4mI3gLYc/giphy.gif)
 
 When writing DOM, we're doing so in HTML, a markup language for web pages. Nodes are elements that have a starting tag,
 and an ending tag. Some nodes only have a starting tag. Those are called _self-closing_ elements. These elements do not
@@ -33,7 +33,7 @@ In self-closing tags, the trailing `/` is optional. This is valid too:
 ```
 
 ## Trees and leaves
-![A tree.](hhttps://media.giphy.com/media/2XflxzDTUtH7VxyfoT6/giphy.gif)
+![A tree.](https://media.giphy.com/media/2XflxzDTUtH7VxyfoT6/giphy.gif)
 
 DOM structure can be compared to a tree. You have one big tree trunk from which all other elements spring forth. Those
 elements can also have children themselves, leading to a branched structure. For clarity's sake, let's assume our tree
@@ -50,7 +50,7 @@ To _nest_ items in an element, we simply add the content between its starting an
 ```
 
 ## Building blocks
-![Lego](hhttps://media.giphy.com/media/3ZALZoBtI1KJa/giphy.gif)
+![Lego](https://media.giphy.com/media/3ZALZoBtI1KJa/giphy.gif)
 
 Every HTML element has a `display` value. This value can be many things (including `none`, which hides the elements), but
 the default value for most elements is either `block` or `inline`.
