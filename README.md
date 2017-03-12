@@ -66,7 +66,7 @@ Contrary to block-level elements, inline elements are shy and less greedy. They 
 Inline elements can _only_ contain text and other inline elements. If you start adding block-level elements to an inline
 element, your browser will do all sorts of funky stuff to fix the markup mistakes. Best to avoid that!
 
-Examples of block elements are `<span>`, `<em>`, `<strong>`, `<a>`, `<img>` and so on. MDN also has a great [list of all
+Examples of inline elements are `<span>`, `<em>`, `<strong>`, `<a>`, `<img>` and so on. MDN also has a great [list of all
 inline elements][html-inline-elements].
 
 ### Taking it for a spin
